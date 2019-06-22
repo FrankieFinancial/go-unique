@@ -11,8 +11,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/FrankieFinancial/go-unique/unique"
-
+  unique "github.com/FrankieFinancial/go-unique/unique"
 	. "github.com/franela/goblin"
 )
 
