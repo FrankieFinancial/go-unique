@@ -1,4 +1,4 @@
-module github.com/FrankieFinancial/go-unique/unique
+module github.com/FrankieFinancial/go-unique
 
 go 1.12
 
